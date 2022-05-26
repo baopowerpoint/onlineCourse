@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.7de80d5a.css",
-    "main.js": "/static/js/main.80fa6753.js",
-    "static/media/course background.png": "/static/media/course background.4ca16a39907a8bc3224c.png",
-    "static/media/background.png": "/static/media/background.71edccdb8cc3a3702bb9.png",
-    "static/media/login background.png": "/static/media/login background.563ada95d37321c5817a.png",
-    "index.html": "/index.html",
-    "main.7de80d5a.css.map": "/static/css/main.7de80d5a.css.map",
-    "main.80fa6753.js.map": "/static/js/main.80fa6753.js.map"
+    "main.css": "/onlineCourse/static/css/main.a7ec195c.css",
+    "main.js": "/onlineCourse/static/js/main.67eeeba1.js",
+    "static/media/course background.png": "/onlineCourse/static/media/course background.4ca16a39907a8bc3224c.png",
+    "static/media/background.png": "/onlineCourse/static/media/background.71edccdb8cc3a3702bb9.png",
+    "static/media/login background.png": "/onlineCourse/static/media/login background.563ada95d37321c5817a.png",
+    "index.html": "/onlineCourse/index.html",
+    "main.a7ec195c.css.map": "/onlineCourse/static/css/main.a7ec195c.css.map",
+    "main.67eeeba1.js.map": "/onlineCourse/static/js/main.67eeeba1.js.map"
   },
   "entrypoints": [
-    "static/css/main.7de80d5a.css",
-    "static/js/main.80fa6753.js"
+    "static/css/main.a7ec195c.css",
+    "static/js/main.67eeeba1.js"
   ]
 }
