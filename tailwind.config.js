@@ -1,0 +1,52 @@
+module.exports = {
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
+  theme: {
+    extend: {
+      fontFamily: {
+        raleway: "Raleway",
+      },
+      colors: {
+        light: "#FFFFFF",
+        "light-nd": "#F8F8F8",
+        "light-rd": "#8A8AA0",
+        primary: "#5142FC",
+        warning: "#FFBD0C",
+        critical: "#DF4949",
+        done: "#47A432",
+        dark: "#14141F",
+        "dark-nd": "#343444",
+        "dark-rd": "#7A798A",
+        blue: "#258DEA",
+        "semi-black": "#323645",
+        none: "none",
+      },
+      backgroundImage: {
+        "hero-pattern": "url('/src/img/background.png')",
+        "login-pattern": "url('/src/img/login background.png')",
+        "course-pattern": "url('/src/img/course background.png')",
+      },
+      fontWeight: {
+        "extra-light": "100",
+        light: "200",
+        normal: "400",
+        bold: "700",
+      },
+      fontSize: {
+        heading1: "76px",
+        heading2: "56px",
+        heading3: "40px",
+        heading4: "36px",
+        heading5: "24px",
+        heading6: "20px",
+        subheading: "14px",
+        subheading2: "12px",
+        subtitle: "15px",
+        body: "20px",
+        body2: "18px",
+        body3: "16px",
+        button: "19px",
+      },
+    },
+  },
+  plugins: [],
+};
