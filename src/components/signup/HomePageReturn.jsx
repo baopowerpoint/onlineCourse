@@ -2,11 +2,11 @@ import React from "react";
 import { BsArrowLeftSquare } from "react-icons/bs";
 import { Link } from "react-router-dom";
 
-const HomePageReturn = () => {
+const HomePageReturn = (props) => {
   return (
-    <div className="flex item-start cursor-pointer">
-      <BsArrowLeftSquare className="text-light-nd text-heading5" />
-      <Link to="/" className="text-light-nd ml-2 font-bold">
+    <div className={`flex text-${props.color}-nd item-start cursor-pointer`}>
+      <BsArrowLeftSquare className=" text-heading5" />
+      <Link to="/" className=" ml-2 font-bold">
         Home
       </Link>
     </div>

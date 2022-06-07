@@ -11,7 +11,7 @@ const Feedback = () => {
         <div className="card mt-10 w-1/2 drop-shadow-xl bg-light-nd p-3 mx-auto">
           <img
             className=" w-16 mb-5 h-16 rounded-full mx-auto"
-            src="https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-1/248681365_3000577810185113_6734203646219205847_n.jpg?stp=dst-jpg_p200x200&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=ifRd2iVzhCsAX9V-aB9&tn=jADBnUFXfVf6hAoC&_nc_ht=scontent.fhan14-2.fna&oh=00_AT-AF_2IaVD4Ni_QvpdDd_1JRZRoXkGC00-ZrOf6gnR_Ng&oe=62908CE3"
+            src="https://scontent.fhan2-2.fna.fbcdn.net/v/t39.30808-6/278925130_705617490882782_1002634865451864080_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=pi3N-EydLyMAX8GcXhw&_nc_ht=scontent.fhan2-2.fna&oh=00_AT9CAIV0plXpKLkEukrY-JdIkC0yDh5byw9Y_YXvlpLarg&oe=62A38183"
             alt=""
           />
           <p className="font-light text-dark-nd text-center">
@@ -25,7 +25,7 @@ const Feedback = () => {
         <div className="card mt-10 w-1/2 drop-shadow-xl bg-light-nd p-3 mx-auto">
           <img
             className=" w-16 mb-5 h-16 rounded-full mx-auto"
-            src="https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-1/248681365_3000577810185113_6734203646219205847_n.jpg?stp=dst-jpg_p200x200&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=ifRd2iVzhCsAX9V-aB9&tn=jADBnUFXfVf6hAoC&_nc_ht=scontent.fhan14-2.fna&oh=00_AT-AF_2IaVD4Ni_QvpdDd_1JRZRoXkGC00-ZrOf6gnR_Ng&oe=62908CE3"
+            src="https://scontent.fhan2-2.fna.fbcdn.net/v/t39.30808-6/278925130_705617490882782_1002634865451864080_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=pi3N-EydLyMAX8GcXhw&_nc_ht=scontent.fhan2-2.fna&oh=00_AT9CAIV0plXpKLkEukrY-JdIkC0yDh5byw9Y_YXvlpLarg&oe=62A38183"
             alt=""
           />
           <p className="font-light text-dark-nd text-center">
@@ -39,7 +39,7 @@ const Feedback = () => {
         <div className="card mt-10 w-1/2 drop-shadow-xl bg-light-nd p-3 mx-auto">
           <img
             className=" w-16 mb-5 h-16 rounded-full mx-auto"
-            src="https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-1/248681365_3000577810185113_6734203646219205847_n.jpg?stp=dst-jpg_p200x200&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=ifRd2iVzhCsAX9V-aB9&tn=jADBnUFXfVf6hAoC&_nc_ht=scontent.fhan14-2.fna&oh=00_AT-AF_2IaVD4Ni_QvpdDd_1JRZRoXkGC00-ZrOf6gnR_Ng&oe=62908CE3"
+            src="https://scontent.fhan2-2.fna.fbcdn.net/v/t39.30808-6/278925130_705617490882782_1002634865451864080_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=pi3N-EydLyMAX8GcXhw&_nc_ht=scontent.fhan2-2.fna&oh=00_AT9CAIV0plXpKLkEukrY-JdIkC0yDh5byw9Y_YXvlpLarg&oe=62A38183"
             alt=""
           />
           <p className="font-light text-dark-nd text-center">

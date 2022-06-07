@@ -1,16 +1,15 @@
 import React from "react";
 import HomePageReturn from "../components/signup/HomePageReturn";
-import LoginHero from "../components/login/LoginHero";
+
 import LoginForm from "../components/login/LoginForm";
-import LoginButton from "../components/login/LoginButton";
+import LoginHero from "../components/login/LoginHero";
 
 const Login = () => {
   return (
     <div className="bg-login-pattern bg-cover  w-full h-screen p-4">
-      <HomePageReturn />
+      <HomePageReturn color="light" />
       <LoginHero />
       <LoginForm />
-      <LoginButton />
     </div>
   );
 };

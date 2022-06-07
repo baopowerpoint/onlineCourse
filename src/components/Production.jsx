@@ -1,16 +1,15 @@
 import React from "react";
 import Badge from "./Badge";
 import { useState, useEffect } from "react";
+import { onSnapshot, collection } from "firebase/firestore";
+import { db } from "../firebase";
 
 const Production = () => {
   const [images, setImages] = useState([]);
   useEffect(() => {
-    async function fetchData() {
-      const data = await fetch("http://localhost:4000/image")
-        .then((res) => res.json())
-        .then((data) => setImages(data));
-    }
-    fetchData();
+    onSnapshot(collection(db, "posts"), (snapshot) => {
+      setImages(snapshot.docs.map((doc) => doc.data()));
+    });
   }, []);
 
   return (
@@ -25,7 +24,7 @@ const Production = () => {
           <img
             key={idx}
             className="rounded-lg my-2"
-            src={image.url}
+            src={image.imgUrl}
             alt={idx}
           />
         ))}
